@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://karaf.apache.org/xmlns/features/v1.0.0 http://karaf.apache.org/xmlns/features/v1.0.0"
+	name="nigazhchi-refapp-features">
+
+	<feature name="nigazhchi-refapp-model" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-model/${pom.version}</bundle>
+	</feature>
+	
+	<feature name="nigazhchi-refapp-persistence" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-persistence/${pom.version}</bundle>
+	</feature>
+	
+	<feature name="nigazhchi-refapp-utilities" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-utilities/${pom.version}</bundle>
+	</feature>
+	
+	<feature name="nigazhchi-refapp-service" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-service/${pom.version}</bundle>
+	</feature>
+	
+	<feature name="nigazhchi-refapp-config" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-config/${pom.version}</bundle>
+	</feature>
+	
+	<feature name="nigazhchi-refapp-cxf" version="${pom.version}">
+		<bundle>mvn:in.magizhchi/nigazhchi-refapp-cxf/${pom.version}</bundle>
+	</feature>
+	
+</features>
