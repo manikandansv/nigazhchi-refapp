@@ -63,7 +63,7 @@
 		<jackson.version>2.8.6</jackson.version>
 		<asm-all.version>5.1</asm-all.version>
 		<javax.ws.version>2.0.1</javax.ws.version>
-		<camel.version>2.18.1</camel.version>
+		<camel.version>3.1.0</camel.version>
 		<servlet.version>2.5</servlet.version>
 		<cxf.version>3.0.4</cxf.version>
 	</properties>
