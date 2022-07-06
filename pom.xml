@@ -59,7 +59,7 @@
 		<jongo.version>1.3.0</jongo.version>
 		<mongojack.version>2.6.1</mongojack.version>
 		<morphia.version>1.2.1</morphia.version>
-		<jsch.version>0.1.53</jsch.version>
+		<jsch.version>0.1.54</jsch.version>
 		<jackson.version>2.8.6</jackson.version>
 		<asm-all.version>5.1</asm-all.version>
 		<javax.ws.version>2.0.1</javax.ws.version>
